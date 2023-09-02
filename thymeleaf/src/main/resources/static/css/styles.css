@@ -1,0 +1,22 @@
+th, td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  border: 1px solid;
+}
+table{
+	border: 1px solid;
+	width: 100%;
+}
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+p{
+	align-items: center;
+}
+
+h1{
+	background-color:DodgerBlue;
+	text-align: center;
+}
