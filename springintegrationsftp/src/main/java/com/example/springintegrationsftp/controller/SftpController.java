@@ -16,7 +16,6 @@ public class SftpController {
 	@Autowired
 	SftpService service;
 
-
 	@GetMapping("/sendFile")
 	public void sendFile() {
 	
